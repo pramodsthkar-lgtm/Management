@@ -1,0 +1,6 @@
+{
+  "name": "Website Management Platform",
+  "description": "A professional platform for submitting websites for management, maintenance, and optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
